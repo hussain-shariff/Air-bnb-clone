@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+LIVE DEMO [HERE] (https://airbnb-clone-website.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
